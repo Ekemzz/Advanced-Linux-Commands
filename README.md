@@ -36,9 +36,35 @@ switching between users and changing passwords via the images below
 <img width="955" alt="image" src="https://github.com/user-attachments/assets/446d0ada-584d-4a08-b85c-d97a388cb717" />
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/ff1eef4a-f324-4804-baa2-fc49ac734f47" />
 
+Deleting a user. userdel command used in deleting a user in the image below
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/0868f82e-8292-496a-80ab-88f06779d0b4" />
+
 Group management.
 <img width="426" alt="image" src="https://github.com/user-attachments/assets/07e4cec5-0877-49b8-b301-2151f52f0ae3" />
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/23733660-dd33-44a7-bc7c-6afccce6f80b" />
 
 
+Side Hustle
+
+Created a user 'mary', 'mohammed', 'ravi', 'tunji', 'sofia' and added them to the devops group. see images below
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/9e5fbed1-4695-44c7-8f8c-d85bd0e3422b" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/12c22643-e8fc-4a00-babe-f9ffb75e7faa" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/215c21c6-5629-466a-8ca9-dda016f56aa6" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/1a484cc9-c77e-4ba2-94cc-d3f299a88c5a" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/a68902da-f616-46ae-bb20-5869eefa7214" />
+
+Change directory into the /home directory and create a folder for all users
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/ece42d9a-1671-4771-9ce2-9f4c7567ef15" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/416197f6-0018-4f83-8756-cd0c25ef8816" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/5f59a136-65dd-4aac-b2d1-0b5396d1f319" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/7d9df6ac-8d57-481f-a0fe-bfab76f00dd2" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/a1e152df-4d83-4628-ace1-5ed563f69fdf" />
+
+Folder in Directory must be owned by devops. see images to ascertain this.
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/c08288c5-869f-4dfa-816b-a62d72fbdc94" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/d431ce4e-bed9-4974-bc8e-9add0be8b11e" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/cb06b743-6474-4dda-8816-b8580965be55" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/b1347979-80b3-4672-833a-1d787a034f8a" />
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/19440baf-b8cc-472e-963a-273fb59fc2cd" />
 
